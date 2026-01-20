@@ -169,9 +169,4 @@ This project demonstrates how **logistic regression**, combined with strong EDA 
 * Feature scaling and interaction terms
 * Cost-sensitive evaluation (false negatives vs false positives)
 
----
 
-## Author
-
-**Maria John**
-Business Intelligence / Analytics Engineering Focus
